@@ -1,0 +1,26 @@
+
+body{
+    background-color: #f3e1ff;
+}
+p{
+    text-align: center;
+}
+.chorus{
+    font-style: italic;
+    color: gray;
+    text-shadow: 1px 1px #aaa;
+}
+.lyric-segment3, .lyric-segment4{
+    font-family: "Skia", sans-serif;
+    font-size: 24px;
+    color: #00ff00;
+    text-shadow: 1px 1px #009900;
+    letter-spacing: 0.8px;
+}
+.lyric-segment1, .lyric-segment2{
+  font-family: "Futura", sans-serif;
+  position: relative;
+  font-size: 24px;
+  color: #ff0000;
+  text-shadow: 1px 1px #cc0000;
+}
